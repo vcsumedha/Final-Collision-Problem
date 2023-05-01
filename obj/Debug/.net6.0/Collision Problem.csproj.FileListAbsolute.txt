@@ -1,0 +1,174 @@
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Collision Problem.exe
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Collision Problem.deps.json
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Collision Problem.runtimeconfig.json
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Collision Problem.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Collision Problem.pdb
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Azure.Core.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Azure.Identity.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Azure.Quantum.Jobs.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Azure.Storage.Common.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Bond.Attributes.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Bond.IO.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Bond.Reflection.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Bond.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Bond.JSON.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\FParsec.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\FParsecCS.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\FSharp.Core.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Humanizer.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Markdig.Signed.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Azure.Quantum.Client.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.BondSchemas.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.QsCompilationManager.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.QsCompiler.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.QsCore.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.QsDataStructures.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.QsDocumentationParser.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.QsOptimizations.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.QsSyntaxProcessor.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.QsTextProcessor.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.QsTransformations.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.CSharpGeneration.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.RoslynWrapper.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.EntryPointDriver.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.QSharp.Core.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.QSharp.Foundation.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.Runtime.Core.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.Simulation.Common.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.Simulators.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.Standard.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.Targets.Interfaces.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.VisualStudio.LanguageServer.Protocol.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\NumSharp.Core.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\System.CodeDom.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\System.CommandLine.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\System.IO.Hashing.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\System.Text.Json.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\YamlDotNet.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\cs\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\de\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\es\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\fr\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\it\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\ja\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\ko\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\pl\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\ru\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\tr\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\runtimes\linux-x64\native\Microsoft.Quantum.Experimental.Simulators.Runtime.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\runtimes\linux-x64\native\Microsoft.Quantum.QdkSimRs.Runtime.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\runtimes\linux-x64\native\libMicrosoft.Quantum.Simulator.Runtime.so
+D:\Quantum\Collision Problem\bin\Debug\net6.0\runtimes\linux-x64\native\libMicrosoft.Quantum.SparseSimulator.Runtime.so
+D:\Quantum\Collision Problem\bin\Debug\net6.0\runtimes\linux-x64\native\libomp.so
+D:\Quantum\Collision Problem\bin\Debug\net6.0\runtimes\linux-x64\native\libomp.so.5
+D:\Quantum\Collision Problem\bin\Debug\net6.0\runtimes\osx-x64\native\Microsoft.Quantum.Experimental.Simulators.Runtime.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\runtimes\osx-x64\native\Microsoft.Quantum.QdkSimRs.Runtime.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\runtimes\osx-x64\native\libMicrosoft.Quantum.Simulator.Runtime.dylib
+D:\Quantum\Collision Problem\bin\Debug\net6.0\runtimes\osx-x64\native\libMicrosoft.Quantum.SparseSimulator.Runtime.dylib
+D:\Quantum\Collision Problem\bin\Debug\net6.0\runtimes\osx-x64\native\libomp.dylib
+D:\Quantum\Collision Problem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Quantum.Experimental.Simulators.Runtime.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Quantum.QdkSimRs.Runtime.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Quantum.Simulator.Runtime.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Quantum.Simulator.Runtime.lib
+D:\Quantum\Collision Problem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Quantum.SparseSimulator.Runtime.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\runtimes\win-x64\native\libomp140.x86_64.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Quantum\Collision Problem\obj\Debug\net6.0\Collision Problem.csproj.AssemblyReference.cache
+D:\Quantum\Collision Problem\obj\Debug\net6.0\Collision Problem.csproj.CopyComplete
+D:\Quantum\Collision Problem\obj\Debug\net6.0\Collision Problem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quantum\Collision Problem\obj\Debug\net6.0\Collision Problem.AssemblyInfoInputs.cache
+D:\Quantum\Collision Problem\obj\Debug\net6.0\Collision Problem.AssemblyInfo.cs
+D:\Quantum\Collision Problem\obj\Debug\net6.0\Collision Problem.csproj.CoreCompileInputs.cache
+D:\Quantum\Collision Problem\obj\Debug\net6.0\Collision Problem.dll
+D:\Quantum\Collision Problem\obj\Debug\net6.0\refint\Collision Problem.dll
+D:\Quantum\Collision Problem\obj\Debug\net6.0\Collision Problem.pdb
+D:\Quantum\Collision Problem\obj\Debug\net6.0\Collision Problem.genruntimeconfig.cache
+D:\Quantum\Collision Problem\obj\Debug\net6.0\ref\Collision Problem.dll
+D:\Quantum\Collision Problem\bin\Debug\net6.0\Microsoft.Quantum.Numerics.dll
